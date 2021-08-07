@@ -1,0 +1,100 @@
+#header {
+    font-family: Rajdhani;
+    overflow: hidden;
+}
+
+.nav {
+    position: sticky;
+    top: 0;
+    white-space: nowrap;
+}
+
+.nav .navTop {
+    height: 110px;
+    background: #F4A261;
+}
+
+.nav .navBot {
+    height: 40px;
+    background: #E9C46A;
+    display: flex;
+}
+
+.title {
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 82px;
+    color: white;
+    display: inline-block;
+    overflow-x: hidden;
+    vertical-align: top;
+    margin: 2vh 0 0 1vw;
+}
+
+.select{
+    height: 61px;
+    width: 237px;
+    margin-left: 850px;
+    margin-bottom: 2vh;
+    vertical-align: middle;
+    text-align:middle;
+    padding-left: 15px;
+    font-size: 38px;
+    color: white;
+    background: #E76F51;
+    border: #E76F51;
+    box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.25);
+}
+
+.banner {
+    height: 60px;
+    background: #2A9D8F;
+}
+
+.container {
+    font-size: 24px;
+    line-height: 36px;
+    text-align: left;
+    padding: 20px 100px 0 200px;
+    align-items: center;
+}
+
+.videoContainer video{
+    object-fit: fill;
+    height: 80vh;
+    width: 100%;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+.footer {
+    height: 5vh;
+    width: 100%;
+    display: inline-block;
+    background: #264653;  
+    color: white;
+    bottom: 0;
+}
+
+.logo {
+    margin-left: 2vw;
+}
+
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+    .select {
+        margin-left: 500px; 
+    }
+}
+
+/* @media screen 
+and (min-device-width: 0px)
+and (max-device-width: 1200px)
+and (-webkit-min-device-pixel-ratio: 1) {
+    .select{
+        display: none;
+        visibility: hidden;
+    }
+} */
