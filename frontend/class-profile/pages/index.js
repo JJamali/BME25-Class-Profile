@@ -1,10 +1,7 @@
-import { useRouter } from 'next/router';
 import Image from 'next/image'
 import styles from '../styles/Home.module.css';
 
-function Home() {
-  const router = useRouter();
-
+export default function Home() {
   return (
     <div id="header">
       <div className={styles.nav}>
@@ -37,7 +34,7 @@ function Home() {
         </p>
         <p>Vestibulum tempus cursus ligula in venenatis. Nullam tincidunt, lacus sit amet efficitur finibus, justo erat fermentum lorem, at iaculis libero augue eget metus. Aenean molestie quam sit amet magna ornare, quis venenatis erat ultricies.
           Mauris porta suscipit nulla eleifend lacinia. Nulla feugiat metus quis pretium consectetur. In hac habitasse platea dictumst.
-          Nunc ullamcorper ipsum id sapien viverra, sit amet imperdiet erat laoreet.Sed sem est, tincidunt quis aliquet vel, suscipit vitae justo. Curabitur elementum ullamcorper aliquet. Sed commodo, justo eu iaculis vehicula, nunc ligula efficitur augue, ac maximus purus metus sagittis leo. 
+          Nunc ullamcorper ipsum id sapien viverra, sit amet imperdiet erat laoreet.Sed sem est, tincidunt quis aliquet vel, suscipit vitae justo. Curabitur elementum ullamcorper aliquet. Sed commodo, justo eu iaculis vehicula, nunc ligula efficitur augue, ac maximus purus metus sagittis leo.
           Maecenas non faucibus velit.
         </p>
         <p>Donec et efficitur eros. In condimentum mollis eros et eleifend.
@@ -45,9 +42,18 @@ function Home() {
           Aliquam porttitor, tellus at elementum egestas, orci ex ultricies ex, quis malesuada felis massa non velit. Phasellus non fermentum nunc, sed vestibulum ipsum. Nullam viverra nulla nisi, ac imperdiet est porta eget. Etiam placerat egestas dui nec imperdiet. Ut hendrerit, sem id posuere euismod, libero nulla tristique ligula, id feugiat massa ipsum at ex. Sed hendrerit ante eros, sed posuere velit consectetur quis. Curabitur bibendum tempor felis id accumsan. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
           Mauris ligula dui, viverra vel ornare vitae, efficitur non nisl.
         </p>
+        <div className={styles.slide}>
+          <iframe src="/test2.pdf" styles="frameborder=0;" width={775} height={450}></iframe>
+        </div>
+        <p>The PDF version is also available <a className={styles.link} href="https://github.com/JJamali/BME25-Class-Profile/tree/main/frontend/class-profile">here</a></p>
       </div>
-      <footer className={styles.footer}>@Copyright 2021</footer>
+      <footer className={styles.footer}>
+        <ul>
+          <li className={styles.li}>
+            <Image src="/socialMedias.png" alt="Social Medias" width={200} height={50} />
+          </li>
+        </ul>
+      </footer>
     </div>
   )
 }
-export default Home;
