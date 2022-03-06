@@ -7,5 +7,4 @@ import numpy as np
 
 df = pd.read_csv('data/datasets/raw_1AB.csv')
 
-print(df.shape)
-print(df.columns)
+df.to_csv('data/datasets/1AB.csv')
