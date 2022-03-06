@@ -9,7 +9,9 @@ Output: Cleaned relavent data in .csv
 
 ### Plotting with matplotlib
 Input: .csv file
-Output: Many graphs and plots showing correlation and other values
+Output: Many graphs and plots showing correlation and other values 
+- plotting against different columns
+- own plot 
 
 #### Analysis
 Take a look at the plots and correlations between each variable and determine if they are relavent and/or good findings. 
