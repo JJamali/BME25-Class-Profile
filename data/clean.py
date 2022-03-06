@@ -5,6 +5,9 @@ cleaning raw data set
 import pandas as pd
 import numpy as np
 
-df = pd.read_csv('data/datasets/raw_1AB.csv')
+fileName = "raw_coop1.csv"
+fileExportName = fileName[4:]
 
-df.to_csv('data/datasets/1AB.csv')
+df = pd.read_csv('data/datasets/' + fileName)
+
+df.to_csv('data/datasets/' + fileExportName)
