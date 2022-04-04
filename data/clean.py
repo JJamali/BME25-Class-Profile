@@ -11,8 +11,6 @@ fileExportName = fileName[4:]
 df = pd.read_csv('data/datasets/' + fileName)
 print(len(df.index))
 
-
-
 df['likeCse'] = df['likeCse'].map(
      {'Yes': 1 , 'No':0, 'Maybe':3})
 
@@ -30,6 +28,6 @@ df['bNumCry'] = df['bNumCry'].map(
       '11-20 times':'11-20',
       '1-5 times':'1-5'
      })
-
+     
 df.to_csv('data/datasets/' + fileExportName)
 
