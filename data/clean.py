@@ -11,8 +11,16 @@ fileExportName = fileName[4:]
 df = pd.read_csv('data/datasets/' + fileName)
 print(len(df.index))
 
+df['parentStem'] = df['parentStem'].map(
+     {'None': 0}
+)
+
+df['gender'] = df['gender'].map(
+     {'Male': 0, 'Female': 1,'Questioning/NB': 2}
+)
+
 df['likeCse'] = df['likeCse'].map(
-     {'Yes': 1 , 'No':0, 'Maybe':3})
+     {'Yes': 1 , 'No': 0, 'Maybe': 3})
 
 df['bAttendance'] = df['bAttendance'].map(
      {'I skipped almost every class': 0,
