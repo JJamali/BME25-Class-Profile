@@ -1,0 +1,52 @@
+,coopAcquired,coopSearch,coopPrep,jobBoard,externalInterview,internalInterview,numTechInt,techIntDif,bgFilter,typeAcquired,coopRound,covidImpact,reasonCoop,jobType,bmeRelated,,geolocation,workLocation,pay,companyName,companySize,likeCoop,likeEnv,stressLvl
+0,1,1,"Side Projects, Develop New Skills",0,0,4-6,1-3,2,1,0,1,4,,QA,1,,Greater Toronto Area,1,,,0,4,5,2
+1,1,1,"Peer Reviews for Resumé, Develop New Skills",0,0,1-3,1-3,2,0,0,0,2,"Interesting Field, Money",Research,1,,Greater Ottawa Area,1,22,University of Ottawa,1,4,3,3
+2,1,1,Develop New Skills,0,0,7-10,1-3,5,0,0,0,4,Interesting Field,Data Science,1,,Other Canada,1,21,IntelliSports,0,4,4,4
+3,1,1,"Peer Reviews for Resumé, Mock Interviews, Side Projects",0,1-3,1-3,0,,1,0,3,4,,Hardware,0,,Kitchener/Waterloo,0,22.4,University of Waterloo,0,5,5,4
+4,1,1,"Peer Reviews for Resumé, Side Projects, Develop New Skills",0,1-3,7-10,0,,1,0,2,4,Interesting Field,PM,1,,Kitchener/Waterloo,1,21.5,Rocket Doctor,1,5,5,3
+5,1,1,"Coding Questions, Develop New Skills",0,0,4-6,1-3,4,0,0,0,2,Money,Software,1,,Greater Toronto Area,1,35,Elekta Ltd,2,3,4,2
+5,1,0,Peer Reviews for Resumé,3,0,1-3,0,,0,1,2,4,Interesting Field,PM,1,,Greater Toronto Area,0,20,HealthO,0,4,5,3
+6,1,1,"Coding Questions, Side Projects, Develop New Skills",0,1-3,4-6,4-6,4,0,0,1,4,"Related to our program, In-person",Software,1,,Kitchener/Waterloo,0,20,Sterasure,0,5,5,2
+7,1,1,"Peer Reviews for Resumé, Mock Interviews, Develop New Skills",0,0,7-10,1-3,3,0,0,0,1,"Interesting Field, Well-known company",QA,1,,Greater Toronto Area,1,22,UHN,0,5,5,3
+8,1,1,Peer Reviews for Resumé,0,0,7-10,1-3,,0,0,3,1,,PM,1,,Other Ontario,0,18.75,Southmedic,1,4,4,3
+9,1,1,"Coding Questions, Peer Reviews for Resumé, Mock Interviews, Side Projects",0,0,7-10,1-3,3,1,0,1,1,Interesting Field,Software,0,,Kitchener/Waterloo,0,16,University of Waterloo,0,4,4,4
+10,1,1,"Side Projects, Develop New Skills",0,0,7-10,6-9,3,0,0,0,1,Learning Opportunities,ML,1,,Greater Toronto Area,2,16,Sunnybrook,2,4,4,2
+11,1,1,Coding Questions,0,0,4-6,1-3,4,0,0,0,1,"Remote, Learning Opportunities, Money, Great peers",Software,1,,Greater Toronto Area,1,24.9,Flexpa,0,5,5,3
+12,1,1,"Coding Questions, Side Projects",0,0,7-10,6-9,4,0,0,1,2,Settled for the job,Software,1,,Greater Toronto Area,2,25,Shoplogix,1,3,5,4
+13,1,1,,1,1-3,0,0,,0,1,2,2,"Interesting Field, Well-known company",Research,1,,West Coast Canada,2,20,Life Sciences Institute at UBC,0,5,4,2
+14,1,1,Coding Questions,0,0,7-10,6-9,5,0,0,0,4,Learning Opportunities,Software,1,,Greater Toronto Area,1,35,Elekta,2,4,4,4
+15,1,1,"Peer Reviews for Resumé, Side Projects",0,19+,11-14,4-6,3,1,0,1,3,Interesting Field,Software,0,,Greater Toronto Area,1,21.8,Purolator,2,4,4,3
+16,1,1,Mock Interviews,0,0,1-3,0,,0,0,1,5,Settled for the job,Business ,0,,Kitchener/Waterloo,2,16,Waterloo Institute for Nanotechnology,0,4,4,1
+17,0,1,,,,,,,,,,,,,,,,,,,,,,
+18,1,1,,0,1-3,4-6,0,,0,0,0,1,,UX Design,0,,Kitchener/Waterloo,1,24,DOZR,1,4,4,1
+19,1,1,,0,0,4-6,0,,0,0,2,3,,Research,0,,Greater Toronto Area,2,20.3,IPEX Technologies Inc.,0,4,4,2
+20,1,1,"Coding Questions, Peer Reviews for Resumé, Side Projects, Develop New Skills",0,1-3,7-10,1-3,4,0,1,0,2,Learning Opportunities,Research,1,,Kitchener/Waterloo,2,22,,1,3,3,4
+21,1,1,"Coding Questions, Peer Reviews for Resumé, Mock Interviews",0,0,11-14,6-9,2,0,0,0,2,Well-known company,PM,1,,Kitchener/Waterloo,0,22,Intellijoint Surgical Inc.,1,5,5,1
+22,1,1,"Coding Questions, Peer Reviews for Resumé, Side Projects",0,0,7-10,1-3,2,0,0,2,2,Money,Hardware,0,,Kitchener/Waterloo,0,24,University of Waterloo,2,5,5,3
+23,1,0,"Peer Reviews for Resumé, Mock Interviews",2,1-3,4-6,1-3,4,0,1,4,3,Learning Opportunities,PM,1,,Other Canada,1,22,,2,4,4,3
+24,1,1,"Coding Questions, Peer Reviews for Resumé, Mock Interviews",0,0,15-18,6-9,3,1,0,2,3,"Interesting Field, Interesting Position",Data Science,0,,Greater Toronto Area,1,22.85,TD Bank Group,2,3,3,2
+25,1,1,"Coding Questions, Peer Reviews for Resumé, Side Projects",0,1-3,4-6,4-6,3,0,0,0,1,Money,Software,1,,Kitchener/Waterloo,1,26,,2,5,5,2
+26,1,1,"Coding Questions, Peer Reviews for Resumé, Develop New Skills",0,0,11-14,4-6,3,0,0,2,3,Money,Software,0,,Other USA,1,28,Hypeshot Inc,0,5,5,3
+27,1,1,,0,0,1-3,0,,1,0,1,1,"Money, Learning Opportunities",QA,0,,Greater Toronto Area,1,25,Zoocasa,1,4,5,1
+28,1,1,"Peer Reviews for Resumé, Side Projects, Develop New Skills",0,0,7-10,0,,0,0,2,1,"Learning Opportunities, Related to our program",Hardware,1,,Greater Toronto Area,2,20.4,Cosm Medical,0,5,5,3
+29,1,1,"Side Projects, Develop New Skills",1,1-3,0,0,,0,1,4,4,,Mechanical,1,,West Coast Canada,0,,,0,4,5,1
+30,1,1,"Coding Questions, Peer Reviews for Resumé, Side Projects, Develop New Skills",0,1-3,7-10,6-9,2,0,0,1,2,"Money, Learning Opportunities",Software,0,,Greater Toronto Area,1,25,Shoplogix,0,4,5,1
+31,1,1,Peer Reviews for Resumé,0,0,4-6,1-3,3,0,0,2,4,"Close to home, Well-known company, Learning Opportunities",Mechanical,1,,Greater Toronto Area,0,20,Qvella,1,4,3,2
+32,1,1,,0,0,1-3,1-3,1,0,0,1,1,Learning Opportunities,PM,0,,Kitchener/Waterloo,0,25,SnapPea Design,0,4,3,3
+33,1,1,"Peer Reviews for Resumé, Side Projects",3,0,7-10,4-6,4,0,1,1,3,"Well-known company, Interesting Field",PM,0,,Asia,2,23,Lenovo,2,3,3,1
+34,1,1,Peer Reviews for Resumé,3,1-3,11-14,1-3,3,0,1,2,2,"Interesting Field, Related to our program",Research,1,,Kitchener/Waterloo,0,20.4,University of Waterloo,0,4,4,1
+35,1,1,"Peer Reviews for Resumé, Side Projects, Develop New Skills",0,0,1-3,1-3,4,0,0,0,1,"Well-known company, Learning Opportunities",Firmware,0,,Kitchener/Waterloo,2,23.56,Onsemi,2,4,4,3
+36,1,1,Peer Reviews for Resumé,0,0,7-10,1-3,5,0,0,1,2,Close to home,Hardware,0,,Greater Toronto Area,0,23.22,Toronto Transit Commission,2,2,2,3
+37,1,1,,0,1-3,4-6,0,,0,0,2,3,"Interesting Field, Recommendation by professor",Design,1,,Kitchener/Waterloo,2,15,University of Waterloo,0,5,5,2
+38,1,1,Coding Questions,0,0,1-3,1-3,2,1,0,0,3,"Learning Opportunities, Interesting Field",Research,1,,West Coast Canada,0,15,University of Calgary,0,5,5,1
+39,1,1,Coding Questions,0,0,7-10,4-6,3,0,0,0,4,,Software,1,,West Coast Canada,0,22,Pulsemedica ,0,5,5,2
+40,1,1,"Coding Questions, Peer Reviews for Resumé, Side Projects, Develop New Skills",0,0,1-3,1-3,2,0,0,0,1,Learning Opportunities,Software,0,,Greater Toronto Area,1,18.9,ADP Canada,2,3,4,3
+41,1,1,"Coding Questions, Peer Reviews for Resumé, Side Projects, Mentorship",0,0,15-18,6-9,3,1,0,1,4,"Money, Location, Interesting Field",Software,0,,Kitchener/Waterloo,2,22,Tangam Gaming,1,4,5,3
+42,1,1,,0,1-3,7-10,0,,1,0,2,2,Related to our program,Healthcare,1,,Greater Toronto Area,0,,Trillium Health Partners,2,4,5,2
+43,1,1,"Peer Reviews for Resumé, Mock Interviews",0,0,1-3,0,,1,0,1,1,"Interesting Field, Related to our program, In-person",Mechanical,1,,Greater Toronto Area,0,21,Raz Design Inc.,1,4,5,3
+44,1,1,Peer Reviews for Resumé,0,0,1-3,0,,0,0,0,4,Settled for the job,Research,0,,Greater Ottawa Area,1,21.2,NRCan,0,4,4,3
+45,1,1,,0,0,4-6,0,,0,0,1,1,Learning Opportunities,PM,1,,Kitchener/Waterloo,0,16,Grand River Hospital,2,3,3,2
+46,1,1,"Coding Questions, Side Projects",0,0,1-3,1-3,3,0,0,0,1,"Interesting Field, Learning Opportunities",Software,0,,Greater Toronto Area,1,25,Untether AI,1,4,4,2
+47,1,1,"Peer Reviews for Resumé, Side Projects",0,1-3,1-3,0,,1,0,2,2,"Learning Opportunities, Related to our program",PM,1,,Greater Toronto Area,1,21,Rocket Doctor,1,5,5,3
+48,1,1,"Coding Questions, Peer Reviews for Resumé, Side Projects, Develop New Skills",0,1-3,7-10,4-6,4,0,0,1,4,Settled for the job,Data Science,0,,Kitchener/Waterloo,1,22,Trustwave Holdings ,2,3,3,2
+49,1,1,"Peer Reviews for Resumé, Mock Interviews, Develop New Skills",1,4-6,0,0,,0,1,0,5,"New environment, Settled for the job",Research,1,,Other USA,0,15.75,Tearney Labs,0,4,5,2
